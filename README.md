@@ -1,4 +1,5 @@
 Assignment 2: Configuration Management
+
 This is to show understanding and use of Git.
 
 From PDF:
