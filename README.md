@@ -1,7 +1,7 @@
 Assignment 2: Configuration Management
 
 This is to show understanding and use of Git.
-
+https://github.com/DimSumIsTheBest/Assignment2
 From PDF:
   GOAL:
   Your repository must have “interface” and “implementation” branches. One containing
